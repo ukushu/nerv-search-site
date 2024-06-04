@@ -2,6 +2,7 @@
 layout: default
 ---
 
+[Інформація для Фандаб-груп](./4FanDubStudios.html).
 [Правила розміщування телеграм-посилань](./TelegraLinkRules.html).
 
 
