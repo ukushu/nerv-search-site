@@ -2,6 +2,9 @@
 layout: default
 ---
 
+
+![Branching](https://raw.githubusercontent.com/ukushu/nerv-search-site/master/nerv.png)
+
 [Інформація для Фандаб-груп](./4FanDubStudios.html).
 
 [Правила розміщування посилань для ФанДаб-модераторів](./LinkRules.md.html).
