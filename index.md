@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-![Branching](https://raw.githubusercontent.com/ukushu/nerv-search-site/master/nerv.png)
+![Branching](https://raw.githubusercontent.com/ukushu/nerv-search-site/master/nerv_Logo.png)
 
 
 # Перша пошукова система аніме українською мовою! 
