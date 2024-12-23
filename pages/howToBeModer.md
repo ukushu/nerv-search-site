@@ -36,6 +36,8 @@
 /setAnimeInfoUrls BAA48B6DA48F
 Clan Kaizoku|https://toloka.to/t656590
 Clan Kaizoku|https://fex.net/uk/s/lmdyypz
+Amanogawa|https://fex.net/uk/s/qwerty
+Справжня КозацькаОзвучка|https://fex.net/uk/s/ytrewq
 ```
 
 * Moder web URLs - тут ви можете додавати власні посилання: на youtube з фільмом в вашій озвучці, на vimeo з фільмом в вашій озвучці, на власні сайти, на торенти, тощо. Головне що б по переходу по посиланню було відео з цим тайтлом.
